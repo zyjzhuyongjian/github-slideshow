@@ -1,1 +1,4 @@
-function abc(){}
+function abc(){
+
+    var a=1;
+}
